@@ -1,6 +1,6 @@
 ### 
 
-![Saravanan Vijayamuthu](https://raw.githubusercontent.com/SaravananVijayamuthu/SaravananVijayamuthu/master/SaravananVijayamuthu.jpg)
+![Saravanan Vijayamuthu](https://raw.githubusercontent.com/SaravananVijayamuthu/SaravananVijayamuthu/master/banner.jpeg)
 
 <a href="https://discord.com/users/658684252283469835">
   <img align="left" alt="Saravanan Vijayamuthu | Discord" width="22px" src="https://github.com/Adithya-adi-Menon/Hosting/blob/master/assets/discord.svg" />
