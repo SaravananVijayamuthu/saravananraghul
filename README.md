@@ -20,9 +20,9 @@
 
 <br />
 
-Hi, I'm [Saravanan Vijayamuthu](https://saravananvijayamuthu.dotprotek.com), an Full stack developer working @Guvi as SWE Intern and Past FSD Intern @DigiLocker(Govt. of India) and a future aspiring Cybersecurity analyst.I love to buid software that makes people life's easier. I would love to pwn Machines as much I can.
+Hi, I'm [Saravanan Vijayamuthu](https://saravananvijayamuthu.dotprotek.com), I build and make things more secure.
 
-Being a versatile hacker I love to experiecne different flavours of available and emerging domains. 
+I enjoy the process of building applications and ensuring they are secure from potential threats. With experience in ethical hacking, I’ve helped secure over 16 businesses from vulnerabilities and have received multiple recognitions in the Hall of Fame of various organizations. My approach blends development skills with a proactive mindset toward security, allowing me to create robust and secure digital solutions.
 
   <img align="right" alt="GIF" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif?raw=true" width="500" height="320" />
   
